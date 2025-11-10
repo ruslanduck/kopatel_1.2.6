@@ -1,0 +1,52 @@
+{
+  "enemies": [
+    {
+      "index": 1,
+      "enemyType": "Deadly",
+      "spawnPosition": {
+        "x": 700,
+        "y": 810
+      },
+      "size": {
+        "width": 720,
+        "height": 720
+      }
+    },
+    {
+      "index": 2,
+      "enemyType": "Deadly",
+      "spawnPosition": {
+        "x": 700,
+        "y": 810
+      },
+      "size": {
+        "width": 402,
+        "height": 360
+      }
+    },
+    {
+      "index": 3,
+      "enemyType": "Deadly",
+      "spawnPosition": {
+        "x": 700,
+        "y": 810
+      },
+      "size": {
+        "width": 324,
+        "height": 294
+      }
+    },
+    {
+      "index": 4,
+      "enemyType": "Deadly",
+      "spawnPosition": {
+        "x": 700,
+        "y": 810
+      },
+      "size": {
+        "width": 32,
+        "height": 32
+      }
+    }
+  ]
+}
